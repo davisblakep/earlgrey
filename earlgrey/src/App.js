@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <NavBar />
       <h1 style={{ marginLeft: "40px" }}>Earl Grey's Rescue</h1>
-      <p style={{ marginLeft: "40px" }}>Site coming soon!</p>
-      <h2 style={{ marginLeft: "40px" }}>Test</h2>
+      <p style={{ marginLeft: "40px" }}>Full Site coming soon!</p>
+      <h2 style={{ marginLeft: "40px" }}>Earl Grey's Rescue is a site dedicated to support wild animals within the southwest region of Ohio.</h2>
     </div>
   );
 }
